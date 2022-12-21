@@ -1,0 +1,8 @@
+*.csv
+*.jpg
+*.png
+*.pth
+*.xlsx
+*.parquet
+*.zip
+.DS_Store
